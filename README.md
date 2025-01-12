@@ -27,6 +27,8 @@ This project is a single-page web application designed as per the provided Figma
 
 ---
 
+## For Initial setup, Run - npm install
+
 ## Folder Structure  
 
 ```plaintext
@@ -48,4 +50,17 @@ src/
 ├── services/            # API interaction code  
 ├── App.js               # Main App component  
 ├── index.js             # React DOM render entry point  
-└── README.md            # Project documentation  
+└── README.md            # Project documentation
+
+## Setup and Installation  
+
+### Prerequisites  
+- **Node.js** (v16+ recommended)  
+- **npm** or **yarn** package manager  
+
+### Steps  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/healthbuddy-webpage.git  
+   cd healthbuddy-webpage
