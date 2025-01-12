@@ -1,0 +1,137 @@
+.package-title {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #050a4e;
+  font-weight: bold;
+}
+.package-report-time-container {
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.timer-icon {
+  font-size: 18px;
+  color: #1778f2;
+  margin-right: 5px;
+}
+.report-time-para {
+  margin: 0px;
+  color: #1778f2;
+  font-weight: 400;
+  font-size: 14px;
+}
+.package-specifications-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  flex-wrap: wrap;
+}
+.tests-container {
+  width: 45%;
+}
+.specification-title {
+  color: #050a4e;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 0px;
+  margin-bottom: 5px;
+}
+.tests-name-container {
+  padding-left: 20px;
+}
+.test-name {
+  color: #4f4f4f;
+  font-size: 14px;
+}
+.includes-container {
+  width: 40%;
+}
+.includes-para {
+  color: #050a4e;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 0px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+.radiology-icon {
+  height: 20px;
+  width: 20px;
+  font-size: 500px;
+}
+.radiology-para {
+  font-weight: 500;
+  color: #4f4f4f;
+  font-size: 14px;
+  margin: 0px;
+  margin-left: 5px;
+}
+
+.radiology-container {
+  display: flex;
+  align-items: center;
+}
+.fasting-container {
+  width: 40%;
+}
+.available-at-container {
+  width: 40%;
+}
+.bottom-para {
+  color: #050a4e;
+  font-size: 15px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+.hours-para {
+  color: #4f4f4f;
+  font-weight: 500;
+  font-size: 15px;
+  margin: 0px;
+}
+.home-icon-container {
+  display: flex;
+  align-items: center;
+}
+.home-para {
+  color: #4f4f4f;
+  font-size: 15px;
+  font-weight: 500;
+  margin: 0px;
+  margin-left: 5px;
+}
+.prize-cart-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+
+}
+.prize-para {
+  font-size: 22px;
+  font-weight: bold;
+  color: #050a4e;
+  margin: 0px;
+}
+.add-cart-container {
+  border: 1px solid #1778f2;
+  border-style: solid;
+  border-radius: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 40%;
+}
+
+.items-change-btn {
+  background: transparent;
+  font-size: 30px;
+  color: #1778f2;
+  border-style: none;
+}
+.package-numders-para {
+  color: #1778f2;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0px;
+}

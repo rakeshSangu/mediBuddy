@@ -1,0 +1,45 @@
+.book-checkups-container {
+  margin-top: 10px;
+  background-color: white;
+  font-family: 'Roboto';
+  padding-top: 15px;
+  width: 100%;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.book-heading-viewall-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 8px;
+}
+.book-checkups-heading {
+  font-style: Lexend Deca;
+  color: #050a4e;
+  font-weight: 500;
+  font-size: 20px;
+  margin: 0px;
+}
+.book-section-view-all-button {
+  background-color: transparent;
+  border-style: none;
+  color: #1778f2;
+  font-size: 14px;
+  font-weight: 600;
+}
+.book-lab-tests-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  padding-left: 0px;
+  font-family: 'Roboto';
+}
+.book-test-list-item {
+  width: 100%;
+  border: 2px solid #e0e0e0;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+}

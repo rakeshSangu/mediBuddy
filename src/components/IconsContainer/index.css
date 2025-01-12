@@ -1,0 +1,33 @@
+.top-icons-container {
+  list-style: none;
+  display: flex;
+  justify-content: ;
+  flex-wrap: wrap;
+  font-family: 'Roboto';
+  padding-left: 0px;
+  padding-right: px;
+}
+
+.icon-list-item {
+  width: 30%;
+  margin-top: 15px;
+  text-align: center;
+  margin-right: 10px;
+}
+.icons-anchor {
+  text-decoration: none;
+  align-items: center;
+}
+.icons-image {
+  height: 60px;
+  width: 60px;
+  margin-left: 5px;
+}
+.icon-para {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 400;
+  font-style: Lexend Deca;
+  color: #050a4e;
+  margin: 0px;
+}

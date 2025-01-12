@@ -1,0 +1,33 @@
+.question-btn-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.question-para {
+  color: #2e3742;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 0px;
+}
+.answer-view-button {
+  cursor: pointer;
+  background-color: transparent;
+  color: rgb(128, 125, 125);
+  border-style: none;
+}
+.answer-view-icon {
+  font-size: 30px;
+}
+.answer-para {
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+.answer-points-container {
+  padding-left: 15px;
+}
+.answer-point-item {
+  font-size: 14px;
+  font-weight: 400;
+}

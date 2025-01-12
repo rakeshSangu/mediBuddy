@@ -1,0 +1,47 @@
+.featured-checkups-container {
+  margin-top: 10px;
+  background-color: #e8f2fe;
+  font-family: 'Roboto';
+  padding-top: 15px;
+  width: 100%;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-bottom: 10px;
+}
+.featured-heading-viewall-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.featured-checkups-heading {
+  font-style: Lexend Deca;
+  color: #050a4e;
+  font-weight: 500;
+  font-size: 20px;
+  margin: 0px;
+}
+.featured-section-view-all-button {
+  background-color: transparent;
+  border-style: none;
+  color: #1778f2;
+  font-size: 16px;
+  font-weight: 600;
+}
+.health-checkups-container {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.package-list-item {
+  width: 90%;
+  flex-grow: 0;
+  flex-shrink: 0;
+  background-color: white;
+  border-radius: 10px;
+  margin-right: 10px;
+  padding: 15px;
+}

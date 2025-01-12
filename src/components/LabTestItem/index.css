@@ -1,0 +1,119 @@
+.cashless-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+}
+.cashless-para {
+  margin: 0px;
+  font-size: 12px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  color: white;
+  background-color: #459f49;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding: 2px;
+}
+.test-left-container {
+  width: 60%;
+  padding-left: 5px;
+}
+
+.labtest-title {
+  color: #050a4e;
+  font-style: Lexend Deca;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+.reports-time-cotainer {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+.lab-test-clock-icon {
+  font-size: 15px;
+  color: #1778f2;
+  margin-right: 10px;
+}
+.lab-test-duration {
+  color: #050a4e;
+  font-weight: 500;
+  font-size: 14px;
+  margin: 0px;
+}
+.home-lab-test-container {
+  display: flex;
+  align-items: center;
+}
+.test-type-container {
+  display: flex;
+  align-items: center;
+  margin-right: 15px;
+}
+.home-type-icon {
+  font-size: 15px;
+  color: #ff7265;
+}
+.test-type-para {
+  color: #050a4e;
+  font-size: 14px;
+  margin-left: 5px;
+}
+.lab-type-icon {
+  font-size: 15px;
+  color: #1778f2;
+}
+.last-price-offer-container {
+  display: flex;
+  align-items: center;
+  margin-right: 8px;
+  justify-content: end;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+.last-price {
+  font-size: 12px;
+  text-decoration: line-through;
+  margin: 0px;
+  margin-right: 5px;
+  color: #828282;
+}
+.off-para {
+  background-color: #edf7ee;
+  color: #459f49;
+  font-size: 14px;
+  margin: 0px;
+}
+.price-para {
+  color: #050a4e;
+  font-weight: bold;
+  font-size: 16px;
+  margin: 0px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-right: 8px;
+}
+.onwards-para {
+  font-size: 12px;
+  font-weight: 400;
+  color: #828282;
+  padding-left: 3px;
+}
+.book-test-add-button {
+  border: 2px solid #1778f2;
+  width: 60%;
+  border-radius: 8px;
+  padding: 3px;
+  color: #1778f2;
+  margin-top: 15px;
+  background-color: transparent;
+  font-size: 16px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.test-right-container{
+  text-align: right;
+}

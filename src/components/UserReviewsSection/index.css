@@ -1,0 +1,78 @@
+.user-title {
+  font-size: 20px;
+  font-weight: 500;
+  color: #050a4e;
+  font-family: 'Roboto';
+  margin-bottom: 0px;
+  margin-left: 10px;
+}
+.reviews-container {
+  width: 100%;
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  overflow-x: auto;
+  font-family: 'Roboto';
+  margin-left: 10px;
+  scrollbar-width: none;
+}
+.review-list-item {
+  width: 90%;
+  flex-grow: 0;
+  flex-shrink: 0;
+  border: 2px solid #e0e0e0;
+  border-radius: 10px;
+  margin-right: 10px;
+  padding: 15px;
+}
+.rating-date-location-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.rating-date-container {
+  display: flex;
+  align-items: center;
+}
+.stars-container {
+  display: flex;
+  align-items: center;
+  margin-right: 5px;
+}
+.review-date {
+  color: #969696;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+.review-location-container {
+  display: flex;
+  align-items: center;
+}
+.review-location-icon {
+  font-size: 12px;
+  margin-right: 5px;
+}
+.review-location-para {
+  font-size: 12px;
+}
+.review-star-icon {
+  color: #f7bd1b;
+}
+.review-content-para {
+  width: 100%;
+  color: Gray cool;
+  font-size: 15px;
+}
+.review-user-details-container {
+  display: flex;
+  align-items: center;
+}
+.review-user-icon {
+  font-size: 20px;
+  margin-right: 10px;
+}
+.review-user-name {
+  font-size: 16px;
+  color: #050a4e;
+  font-weight: 500;
+}

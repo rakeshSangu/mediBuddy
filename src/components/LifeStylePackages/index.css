@@ -1,0 +1,39 @@
+.life-style-packages-container {
+  padding-left: 10px;
+  font-family: 'Roboto';
+  margin-top: 30px;
+}
+.life-style-title {
+  font-size: 20px;
+  font-weight: 600;
+  color: #050a4e;
+  margin-bottom: 5px;
+}
+.life-style-packs-list-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding-left: 0px;
+}
+.life-style-pack-item {
+  border-radius: 15px;
+  width: 45%;
+  border: 1px solid #2c2c2c1a;
+  margin-right: 10px;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.life-style-item-pack-image {
+  height: 80px;
+}
+.life-style-item-para {
+  margin: 0px;
+  font-size: 16px;
+  color: #050a4e;
+  font-weight: 500;
+}
